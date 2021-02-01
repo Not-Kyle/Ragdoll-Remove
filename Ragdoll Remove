@@ -1,0 +1,7 @@
+--SCRIPT MADE MY KYLE/703OPPOSITION
+-- KYLE #1780
+
+
+
+local ragdoll = game:GetService("Players").LocalPlayer.Character:FindFirstChild("Local Ragdoll")
+ragdoll:Remove()
